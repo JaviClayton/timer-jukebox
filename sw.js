@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'timer-jukebox-v1';
+const CACHE_NAME = 'timer-jukebox-v3';
 const APP_SHELL = [
   './',
   './index.html',
